@@ -1,5 +1,3 @@
-import fetch from "node-fetch";
-
 const loginURL = "http://localhost:3000/login";
 
 async function simulateFastSubmit() {
